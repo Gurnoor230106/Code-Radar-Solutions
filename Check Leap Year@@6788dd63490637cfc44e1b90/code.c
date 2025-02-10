@@ -17,6 +17,6 @@ if(a%4==0){
     }
     else{
         printf("Not a Leap Year");
-    }
+    }return 0;
     }
 
