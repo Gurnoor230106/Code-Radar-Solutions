@@ -10,7 +10,10 @@ scanf("%d %d",&a,&b);
 if(a>b){
     printf("Loss");
 }
-else{
+else if (b<a){
     printf("Profit");
+}
+else{
+    printf("No Profit No Loss");
 }
 }
