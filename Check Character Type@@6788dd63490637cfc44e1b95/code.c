@@ -19,4 +19,5 @@ char ch;
     else{
         printf("Special Character");
     }
+    return 0;
 }
