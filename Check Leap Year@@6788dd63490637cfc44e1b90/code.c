@@ -19,4 +19,4 @@ if(a%4==0){
         printf("Not a Leap Year");
     }
     }
-}
+
